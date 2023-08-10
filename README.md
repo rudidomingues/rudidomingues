@@ -1,7 +1,8 @@
 <div align="center">
-- 👋 Hi, I’m @rudidomingues                    
-- 👀 I’m interested in  IA e Tecnologias Educacionais...  
-- 🌱 I’m currently  Professor de Educação Profissional e Tecnologica... 
+  
+- 👋 Olá, sou  @rudidomingues <br>                     
+- 👀 Apaixonado por  IA e Tecnologias Educacionais <br>
+- 🌱 Atualmente Professor de Educação Profissional e Tecnologica<br>
 </div>
 <!---
 rudidomingues/rudidomingues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
