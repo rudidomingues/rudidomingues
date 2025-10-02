@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=gradient&height=180&color=0:00C6FF,100:0072FF&text=Rudinei%20Domingues%20da%20Cruz&fontAlign=50&fontColor=ffffff&desc=Professor%20EBTT%20%7C%20IFSC%20%26%20SEDUC/RS%20%7C%20IA%20na%20Educa%C3%A7%C3%A3o%20%7C%20STEAM&descAlign=50&descAlignY=70" alt="Banner">
-</p>
+</p>--->
 
 <p align="center">
   <a href="mailto:lc.rudinei@outlook.com">
@@ -103,5 +103,5 @@ Tenho forte interesse em **IA aplicada à Educação**, **desenvolvimento web**,
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Educa%C3%A7%C3%A3o+%E2%9D%A4%EF%B8%8F+Tecnologia+%F0%9F%9A%80;Computa%C3%A7%C3%A3o+Criativa+%7C+Cultura+Maker+%7C+IA+na+Educa%C3%A7%C3%A3o" alt="typing-banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Educa%C3%A7%C3%A3o+%E2%9D%A4%EF%B8%8F+Tecnologia+%F0%9F%9A%80;CComputa%C3%A7%C3%A3o+Criativa+%7C+Cultura+Maker+%7C+IA+na+Educa%C3%A7%C3%A3o" alt="typing-banner" />
 </p>
