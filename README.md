@@ -70,7 +70,6 @@ Tenho forte interesse em **IA aplicada à Educação**, **desenvolvimento web**,
 - 🤖 **Mini-projetos Arduino para sala de aula** – LEDs, sensores, PWM  
   `#Arduino` `#Embarcados` `#Educação`
 
-> *Adicione links reais dos repositórios assim que publicar.*
 
 ---
 
