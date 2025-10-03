@@ -26,13 +26,14 @@
 ## 👋 Olá!
 
 Sou **Professor EBTT** no **IFSC** e professor da **SEDUC/RS**, atuando com **Computação Criativa, Cultura Maker, Robótica Educacional, STEAM** e **BNCC Computação**.  
-Tenho forte interesse em **IA aplicada à Educação**, **Desenvolvimento Web**, **Mineração de Dados Educacionais**,  **Didática com Tecnologias** e produção de **materiais instrucionais** acessíveis e tecnológicos.
+Tenho forte interesse em **IA aplicada à Educação**, **Engenharia de Software**, **Mineração de Dados Educacionais com Python**, **Machine Learning**, **Deep Learning** e desenvolvimento de soluções que transformem o processo de ensino e aprendizagem.
 
 - 🧪 **Testes de Software**, **Desenvolvimento de Interfaces**, **Sistemas Embarcados**
 - 🤖 **Robótica Educacional** (Arduino, Gogo Board, LEGO), **Pensamento Computacional**
 - 🧩 **Metodologias Ativas** (problem-based, project-based, aprendizagem criativa)
 - ♿ **Acessibilidade e Usabilidade** (WCAG/W3C)
-- 🎯 **Objetivo**: transformar ideias em experiências de aprendizagem significativas
+- 📊 **Análise e Mineração de Dados Educacionais** para insights sobre aprendizagem
+- 🤖 **IA e Educação** — aplicando **Machine Learning** e **Deep Learning** para inovação pedagógica
 
 ---
 
@@ -41,6 +42,9 @@ Tenho forte interesse em **IA aplicada à Educação**, **Desenvolvimento Web**,
 - **Qualidade**: Teste de Software (funcional, não-funcional, usabilidade)
 - **Embarcados**: GPIO, PWM, ADC, microcontroladores
 - **Maker/STEAM**: prototipagem, 3D, kits educacionais
+- **Dados & IA**: Python para análise de dados, Mineração de Dados Educacionais, Machine Learning & Deep Learning aplicados à educação
+- **Engenharia de Software**: boas práticas de desenvolvimento, arquitetura e qualidade de código
+
 
 ---
 
@@ -69,7 +73,10 @@ Tenho forte interesse em **IA aplicada à Educação**, **Desenvolvimento Web**,
   `#QA` `#Funcional` `#Usabilidade`
 - 🤖 **Mini-projetos Arduino para sala de aula** – LEDs, sensores, PWM  
   `#Arduino` `#Embarcados` `#Educação`
-
+- 📊 **Mineração de Dados Educacionais** – análise de dados de aprendizagem com Python e visualização interativa  
+  `#Python` `#Pandas` `#MachineLearning`
+- 🧠 **Modelos de Machine Learning e Deep Learning** aplicados à educação  
+  `#TensorFlow` `#PyTorch` `#IA`
 
 ---
 
@@ -82,12 +89,15 @@ Tenho forte interesse em **IA aplicada à Educação**, **Desenvolvimento Web**,
 
 ---
 
-## 🧭 Trilha de conteúdos (para estudantes)
+## 🧭 Trilha de conteúdos (para estudantes e interessados)
 
 - **Desenvolvimento de Interfaces** → Mobile-first • Grid/Flex • Media queries • WCAG  
 - **Teste de Software** → Funcionais × Não-funcionais • Usabilidade • Relatórios  
 - **Embarcados** → GPIO • PWM • ADC • Simulação (Tinkercad)  
-- **Maker/STEAM** → Prototipagem • Projetos orientados a problemas
+- **Maker/STEAM** → Prototipagem • Projetos orientados a problemas  
+- **Engenharia de Software** → Arquitetura • Qualidade de código • Processos ágeis  
+- **Análise & Mineração de Dados Educacionais** → Python • Pandas • Dashboards  
+- **Inteligência Artificial** → Machine Learning • Deep Learning • Modelos aplicados à Educação
 
 ---
 
