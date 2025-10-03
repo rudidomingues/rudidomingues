@@ -26,7 +26,7 @@
 ## 👋 Olá!
 
 Sou **Professor EBTT** no **IFSC** e professor da **SEDUC/RS**, atuando com **Computação Criativa, Cultura Maker, Robótica Educacional, STEAM** e **BNCC Computação**.  
-Tenho forte interesse em **IA aplicada à Educação**, **desenvolvimento web**, **didática com tecnologias** e produção de **materiais instrucionais** acessíveis.
+Tenho forte interesse em **IA aplicada à Educação**, **Desenvolvimento Web**, **Mineração de Dados Educacionais**,  **Didática com Tecnologias** e produção de **materiais instrucionais** acessíveis e tecnológicos.
 
 - 🧪 **Testes de Software**, **Desenvolvimento de Interfaces**, **Sistemas Embarcados**
 - 🤖 **Robótica Educacional** (Arduino, Gogo Board, LEGO), **Pensamento Computacional**
