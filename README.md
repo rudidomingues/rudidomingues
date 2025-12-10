@@ -6,8 +6,8 @@
   <a href="mailto:lc.rudinei@outlook.com">
     <img src="https://img.shields.io/badge/email%20pessoal-lc.rudinei%40outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:rudinei.cruz@ifsc.edu.br">
-    <img src="https://img.shields.io/badge/email%20IFSC-rudinei.cruz%40ifsc.edu.br-green?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rudinei.cruz@sesirs.org.br">
+    <img src="https://img.shields.io/badge/email%20FIERGS-rudinei.cruz%40sesirs.org.br-green?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:rudinei-cruz@educar.rs.gov.br">
     <img src="https://img.shields.io/badge/email%20SEDUC-rudinei--cruz%40educar.rs.gov.br-orange?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ## 👋 Olá!
 
-Sou **Professor EBTT** no **IFSC** e professor da **SEDUC/RS**, atuando com **Computação Criativa, Cultura Maker, Robótica Educacional, STEAM** e **BNCC Computação**.  
+Sou **Vice-Diretor Tecnológicos** na **FIRGS** e professor da **SEDUC/RS**, atuando com **Computação Criativa, Cultura Maker, Robótica Educacional, STEAM** e **BNCC Computação**.  
 Tenho forte interesse em **IA aplicada à Educação**, **Engenharia de Software**, **Mineração de Dados Educacionais com Python**, **Machine Learning**, **Deep Learning** e desenvolvimento de soluções que transformem o processo de ensino e aprendizagem.
 
 - 🧪 **Testes de Software**, **Desenvolvimento de Interfaces**, **Sistemas Embarcados**
@@ -104,7 +104,7 @@ Tenho forte interesse em **IA aplicada à Educação**, **Engenharia de Software
 ## 💬 Contato
 
 - ✉️ E-mail pessoal: **lc.rudinei@outlook.com**  
-- ✉️ IFSC: **rudinei.cruz@ifsc.edu.br**  
+- ✉️ FIERGS: **rudinei.cruz@sesirs.org.br**  
 - ✉️ SEDUC/RS: **rudinei-cruz@educar.rs.gov.br**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/rudinei-cruz/**  
 - 🧪 GitHub: **https://github.com/rudidomingues**
