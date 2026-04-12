@@ -25,7 +25,7 @@
 
 ## 👋 Olá!
 
-Sou **Vice-Diretor Tecnológicos** na **FIRGS** e professor da **SEDUC/RS**, atuando com **Computação Criativa, Cultura Maker, Robótica Educacional, STEAM** e **BNCC Computação**.  
+Sou **Vice-Diretor Tecnológicos** na **FIERGS** e professor da **SEDUC/RS**, atuando com **Computação Criativa, Cultura Maker, Robótica Educacional, STEAM** e **BNCC Computação**.  
 Tenho forte interesse em **IA aplicada à Educação**, **Engenharia de Software**, **Mineração de Dados Educacionais com Python**, **Machine Learning**, **Deep Learning** e desenvolvimento de soluções que transformem o processo de ensino e aprendizagem.
 
 - 🧪 **Testes de Software**, **Desenvolvimento de Interfaces**, **Sistemas Embarcados**
