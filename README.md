@@ -67,6 +67,8 @@ Tenho forte interesse em **IA aplicada à Educação**, **Engenharia de Software
 
 ## 📌 Projetos em destaque
 
+- 💻 **[Primeiros passos com a linguagem C](curso-c-iniciante/README.md)** – exemplos progressivos, operadores e atividades para iniciantes<br>
+  `#C` `#LógicaDeProgramação` `#Educação`
 - 📱 **Landing Page Responsiva (modelo didático)** – Mobile-first, Grid/Flex, acessibilidade básica  
   `#HTML` `#CSS` `#Acessibilidade`
 - 🧪 **Exercícios de Teste de Software** – roteiro, casos de teste, relatórios  
