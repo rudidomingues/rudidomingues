@@ -83,8 +83,8 @@ Tenho forte interesse em **IA aplicada à Educação**, **Engenharia de Software
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudidomingues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudidomingues&layout=compact&theme=tokyonight" alt="langs"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rudidomingues&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudidomingues&layout=compact&theme=tokyonight" />
 </p>
 
 ---
